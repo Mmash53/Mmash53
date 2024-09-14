@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mmash53
-- 👀 I’m interested in backend development with bias in PHP / NodeJS / VueJS / GraphQL technologies
-- 🌱 I’m currently learning Springboot & React Native
-- 💞️ I’m looking to collaborate on any project from the specified tech stacks
-- 📫 How to reach me: drop me a line <dr.mmash53@gmail.com>
+- 👋 Hi, I’m Emmanuel Simiyu.
+- 👀 I’m a software developer with expansive know-how in `Python` | `Node.js` | `Vue.j` | `GraphQL` | `Docker` technologies.
+- 🌱 I’m currently learning `React Native`.
+- 💞️ I’m looking to collaborate on any project from the specified tech stacks.
+- 📫 To reach me... drop a line at `dr.mmash53@gmail.com` and I'll revert.
 
 <!---
 Mmash53/Mmash53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
